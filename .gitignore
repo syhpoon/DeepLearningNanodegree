@@ -1,1 +1,3 @@
-DeepLearningNanodegree.iml project1
+*.iml
+.idea/
+.py3/
